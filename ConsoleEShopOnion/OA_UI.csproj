@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\Dialog.cs~RF9fd0b8.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OA_Repository\OA_Repository.csproj" />
+    <ProjectReference Include="..\OA_Service\OA_Service.csproj" />
+  </ItemGroup>
+
+</Project>

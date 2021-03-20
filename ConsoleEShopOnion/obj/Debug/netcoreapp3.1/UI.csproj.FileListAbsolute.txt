@@ -1,0 +1,12 @@
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\UI.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\UI.deps.json
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\UI.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\UI.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\UI.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\UI.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache

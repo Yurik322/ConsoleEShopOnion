@@ -1,0 +1,13 @@
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\ConsoleEShopOnion.exe
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\ConsoleEShopOnion.deps.json
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\ConsoleEShopOnion.runtimeconfig.json
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\ConsoleEShopOnion.runtimeconfig.dev.json
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\ConsoleEShopOnion.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\bin\Debug\netcoreapp3.1\ConsoleEShopOnion.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.AssemblyInfoInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.AssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.dll
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.pdb
+E:\MY PROGRAMS\Projects\C#\Epam\Tasks\Task16\Onion\ConsoleEShopOnion\obj\Debug\netcoreapp3.1\ConsoleEShopOnion.genruntimeconfig.cache

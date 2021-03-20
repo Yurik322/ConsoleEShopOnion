@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OA_Repository/1.0.0": {
+        "dependencies": {
+          "OA_DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "OA_Repository.dll": {}
+        }
+      },
+      "OA_DataAccess/1.0.0": {
+        "runtime": {
+          "OA_DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OA_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OA_DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
